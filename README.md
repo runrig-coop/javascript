@@ -1,3 +1,19 @@
+Runrig Style Guide
+================================================================================
+THIS IS A FORK
+--------------------------------------------------------------------------------
+
+The [original] doesn't get much maintenance these days and doesn't support the
+big changes in ESLint 9.0.0, so this is mainly just for the sake of updating the
+peer dependencies on the base rules and trimming the fat (e.g., Babel).
+
+This README is preserved only for the sake of reference. Don't assume it
+reflects the most recent modifications to the style guide's ESLint rules.
+
+[original]: https://github.com/airbnb/javascript/
+
+--------------------------------------------------------------------------------
+
 # Airbnb JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
