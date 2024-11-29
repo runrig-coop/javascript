@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-runrig",
+  "version": "1.0.0",
+  "description": "A fork of Airbnb style guide with a few overrides and extra rules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/runrig-coop/style-guide.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "Jamie Gaehring <jamie@jgaehring.com> (https://runrig.org)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/runrig-coop/style-guide/issues"
+  },
+  "homepage": "https://github.com/runrig-coop/style-guide#readme"
+}
