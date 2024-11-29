@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import test from 'tape';
+import test from 'node:test';
 
 import index from '..';
 

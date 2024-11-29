@@ -1,4 +1,4 @@
-import test from 'tape';
+import test from 'node:test';
 import { CLIEngine, ESLint } from 'eslint';
 import eslintrc from '..';
 import reactRules from '../rules/react';

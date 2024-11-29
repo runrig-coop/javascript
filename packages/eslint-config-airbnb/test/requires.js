@@ -2,7 +2,7 @@
 
 'use strict';
 
-const test = require('tape');
+const test = require('node:test');
 
 test('all entry points parse', (t) => {
   t.doesNotThrow(() => require('..'), 'index does not throw');
